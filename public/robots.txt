@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apple-fritter.treehaus.site/sitemap.xml
